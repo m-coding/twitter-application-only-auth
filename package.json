@@ -1,0 +1,18 @@
+{
+  "name": "twitter-application-only-auth",
+  "version": "1.0.0",
+  "description": "Twitter Application Only Authentication Demo",
+  "main": "create-twitter-bearer-token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m-coding",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-coding/twitter-application-only-auth.git"
+  },
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
